@@ -74,10 +74,11 @@ button:focus-visible {
 }
 
 .app-container {
+    transform: scale(1.2);
     position: fixed;
     inset: 0px;
     width: 20rem;
-    height: 15rem;
+    height: 20rem;
     margin: auto;
 }
 
